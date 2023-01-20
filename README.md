@@ -7,3 +7,5 @@ Kendryte K210 AI IoT Processor
 Risorse:
 * [tutorial](http://www.yahboom.net/study/K210-Developer-Kit)
 * [Arduino IDE with MAIX Sipeed boards](https://github.com/sipeed/Maixduino)
+* [MaixPy API](http://www.86x.org/cn-maixpy/cn.maixpy.sipeed.com/en/index.html)
+* [maixduino-speech-recognition ON-OFF](https://www.edgemicrotech.com/tutorial-3-maixduino-speech-recognition/)
