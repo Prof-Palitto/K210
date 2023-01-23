@@ -9,3 +9,9 @@ Risorse:
 * [Arduino IDE with MAIX Sipeed boards](https://github.com/sipeed/Maixduino)
 * [MaixPy API](http://www.86x.org/cn-maixpy/cn.maixpy.sipeed.com/en/index.html)
 * [maixduino-speech-recognition ON-OFF](https://www.edgemicrotech.com/tutorial-3-maixduino-speech-recognition/)
+
+Program firmware:
+[Download Firmware](https://dl.sipeed.com/shareURL/MAIX/MaixPy/release/master/)
+```
+kflash -p /dev/ttyUSB0 -b 1500000  maixpy_v0.6.2_84_g8fcd84a58.bin
+```
